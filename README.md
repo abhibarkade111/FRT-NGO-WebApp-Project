@@ -5,10 +5,9 @@
 
 # ✨ Aadhar Foundation Website  ✨
 
-This is a web based personal portfolio integrated with azure service and deployed on azure itself.
-
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY
-**Screenshots**:
+
+#### Screenshots:
 ![NGO website project](https://github.com/abhibarkade111/FRT-NGO-WebApp-Project/blob/master/screenshot1.png?raw=true)
 
 ![NGO website project](https://github.com/abhibarkade111/FRT-NGO-WebApp-Project/blob/master/screenshot2.png?raw=true)
