@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/be13901c-423c-413a-8012-fb301bf08292/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/my-aadhar-foundation",
+    "appService.deploySubpath": "."
+}
