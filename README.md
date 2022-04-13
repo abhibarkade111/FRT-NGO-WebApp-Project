@@ -22,3 +22,11 @@ Hello, I have successfully deploy project on Azure App Service and it's working 
 
 ### Link
 link :- https://my-aadhar-foundation.azurewebsites.net/
+
+### Azure Services Screenshots
+Hello, I have successfully deploy project on Azure App Service and it's working well but now my azure credits are over i don't know how its over but now my app service was stopped, Below i added the screenshots of Azure Services Used please consider my project.
+
+#### Screenshots:
+![NGO website project](https://github.com/abhibarkade111/FRT-NGO-WebApp-Project/blob/master/upload1.png?raw=true)
+
+![NGO website project](https://github.com/abhibarkade111/FRT-NGO-WebApp-Project/blob/master/upload2.png?raw=true)
